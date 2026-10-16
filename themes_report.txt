@@ -1,0 +1,591 @@
+
+=== Design D01 (31 sites) ===
+sample labels: ശ ര ഗ ര വ യ രപ പൻ ത ണ, with, the blessings of almighty, open, ക ഷണക കത ത ത റക ക ക, tap to begin, skip, with the blessings of, almighty, am pm, scroll, ക ഷണക കത ത
+  [KEEP  ] https://aswanth-arya.vercel.app/
+  [REMOVE] https://surya-vayshnav.vercel.app/
+  [REMOVE] https://meghna-aswin.vercel.app/
+  [REMOVE] https://rahulaswathy.vercel.app/
+  [REMOVE] https://sandra-cristyl.vercel.app/
+  [REMOVE] https://sagar-devapriya.vercel.app/
+  [REMOVE] https://najila-shanis.vercel.app/
+  [REMOVE] https://ginu-desmond.vercel.app/
+  [REMOVE] https://shanooj-aneena.vercel.app/
+  [REMOVE] https://patrick-stefy.vercel.app/
+  [REMOVE] https://libin-lidiya.vercel.app/
+  [REMOVE] https://jibin-lidiya.vercel.app/
+  [REMOVE] https://albin-aiswarya.vercel.app/
+  [REMOVE] https://ashik-thomas.vercel.app/
+  [REMOVE] https://vivek-sneha.vercel.app/
+  [REMOVE] https://shihab-minha.vercel.app/
+  [REMOVE] https://jisson-catherine.vercel.app/
+  [REMOVE] https://zeenath-nihal.vercel.app/
+  [REMOVE] https://nihal-zeenath.vercel.app/
+  [REMOVE] https://asisivargees-rachel.vercel.app/
+  [REMOVE] https://shabarinadu-smrithy.vercel.app/
+  [REMOVE] https://sherjin-jenifer.vercel.app/
+  [REMOVE] https://nibin-asha.vercel.app/
+  [REMOVE] https://abinav-navani.vercel.app/
+  [REMOVE] https://chandan-anagha-wedding.vercel.app/
+  [REMOVE] https://vishnu-sandra.vercel.app/
+  [REMOVE] https://sarfas-safna-sabithasulthana-shabeeb.vercel.app/
+  [REMOVE] https://umesh-neethu.vercel.app/
+  [REMOVE] https://anitta-sunny.vercel.app/
+  [REMOVE] https://anagha-chandan.vercel.app/
+  [REMOVE] https://sajjadali-ayisha.vercel.app/
+
+=== Design D02 (27 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, request the pleasure of your company, open invitation, s o late ismail rukhiya, d o muhammed ali sameera, scroll, join us on our special day, date, time, pm pm, venue, century convention centre
+  [KEEP  ] https://rahoof-naja.vercel.app/
+  [REMOVE] https://sreejith-aiswarya.vercel.app/
+  [REMOVE] https://amal-christy.vercel.app/
+  [REMOVE] https://rahul-kavya.vercel.app/
+  [REMOVE] https://aleena-nithindas.vercel.app/
+  [REMOVE] https://akhil-athira.vercel.app/
+  [REMOVE] https://ananthu-meghana.vercel.app/
+  [REMOVE] https://nighees-josmin.vercel.app/
+  [REMOVE] https://benson-meera-engagement.vercel.app/
+  [REMOVE] https://benson-meera-chanthamcharthal.vercel.app/
+  [REMOVE] https://benson-meera.vercel.app/
+  [REMOVE] https://benson-meera-wed-eng.vercel.app/
+  [REMOVE] https://sanoop-fidha.vercel.app/
+  [REMOVE] https://gokul-greeshma-main.vercel.app/
+  [REMOVE] https://anitta-eldho.vercel.app/
+  [REMOVE] https://sreehari-sruthi.vercel.app/
+  [REMOVE] https://nadeer-fidha.vercel.app/
+  [REMOVE] https://iyas-hisana.vercel.app/
+  [REMOVE] https://iyas-hisana-wedding.vercel.app/
+  [REMOVE] https://nahmal-thamanna.vercel.app/
+  [REMOVE] https://athira-vinay.vercel.app/
+  [REMOVE] https://albert-athira.vercel.app/
+  [REMOVE] https://shibil-thaniya.vercel.app/
+  [REMOVE] https://saidalavi-shareefa.vercel.app/
+  [REMOVE] https://vinay-sankar-athira.skenllp.com/
+  [REMOVE] https://shahabas-nadira.vercel.app/
+  [REMOVE] https://hafnas-hisham-wed.vercel.app/
+
+=== Design D03 (25 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, bismillahi r rahmani r raheem, the of, open, kindly join us for the of, view details, scroll, و ج ع ل ب ي ن ك م م و د ة و ر ح م ة, surah ar rum, brought together by faith family, the couple, groom
+  [REMOVE] https://nifal-fathimanida.vercel.app/
+  [KEEP  ] https://shaheer-najma.vercel.app/
+  [REMOVE] https://mubaris-rasha.vercel.app/
+  [REMOVE] https://bhagya-vishal-couple.vercel.app/
+  [REMOVE] https://aysha-hiba-ismail.vercel.app/
+  [REMOVE] https://bhagya-vishal.vercel.app/
+  [REMOVE] https://anas-sanaa-one.vercel.app/
+  [REMOVE] https://sinan-fida.vercel.app/
+  [REMOVE] https://azmabi-bilal.vercel.app/
+  [skip  ] https://darul-rahmah.vercel.app/
+  [REMOVE] https://sm-villa-house-warming.vercel.app/
+  [REMOVE] https://sm-villa.vercel.app/
+  [REMOVE] https://fairoos-subaidabi.vercel.app/
+  [REMOVE] https://salman-rahana.vercel.app/
+  [REMOVE] https://raheem-hanna.vercel.app/
+  [REMOVE] https://ahlam-by-thahataizeen.vercel.app/
+  [REMOVE] https://shahid-asla.vercel.app/
+  [REMOVE] https://shahid-asla-7n8f.vercel.app/
+  [REMOVE] https://shahid-asla-b97i.vercel.app/
+  [REMOVE] https://ashfaq-aysha-naja.skenllp.com/
+  [REMOVE] https://ashfaq-aysha-naja-skenllp-com.vercel.app/
+  [REMOVE] https://shehajaz-imane.vercel.app/
+  [REMOVE] https://ali-amna.vercel.app/
+  [REMOVE] https://azlam-riswana.vercel.app/
+  [REMOVE] https://shanu-hanna.vercel.app/
+
+=== Design D04 (9 sites) ===
+sample labels: genesis, the groom, tap to open, placeholder, the bride, scroll, counting down, until we say ldquo i do rdquo, days, hours, minutes, seconds
+  [KEEP  ] https://jino-aleena.vercel.app/
+  [REMOVE] https://dilna-jaganathan.vercel.app/
+  [REMOVE] https://aneenmol-jojin.vercel.app/
+  [REMOVE] https://jojin-aneenamol.vercel.app/
+  [REMOVE] https://jisson-catherine-wedding.vercel.app/
+  [REMOVE] https://sanju-mary.vercel.app/
+  [REMOVE] https://alwin-sona.vercel.app/
+  [REMOVE] https://shani-sam.vercel.app/
+  [REMOVE] https://sanjo-rose-mary.vercel.app/
+
+=== Design D05 (9 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, tap to open, s j, open the, bismillāhir raḥmānir raḥīm, are getting married, moyinkutty convention centre andona, scroll, the big day, counting down to forever, days, hours
+  [REMOVE] https://sana-jubair.vercel.app/
+  [KEEP  ] https://sarath-amrutha.vercel.app/
+  [REMOVE] https://jeseer-liya.vercel.app/
+  [REMOVE] https://shijil-fathima.vercel.app/
+  [REMOVE] https://jeeva-basil.vercel.app/
+  [REMOVE] https://joyel-ashni.vercel.app/
+  [REMOVE] https://joyel-ashni-9fqc.vercel.app/
+  [REMOVE] https://jabir-nishila-and-jamsheer-jazila.vercel.app/
+  [REMOVE] https://thamanna-afeef.vercel.app/
+
+=== Design D06 (7 sites) ===
+sample labels: tap to open, days, hours, mins, secs, scroll, join us, wedding details, date, nikkah, onwards, venue
+  [KEEP  ] https://khaleel-raisha.vercel.app/
+  [REMOVE] https://nibina-ahamedsha.vercel.app/
+  [REMOVE] https://anas-sanaa.vercel.app/
+  [REMOVE] https://salwa-sameeha-zainul.vercel.app/
+  [REMOVE] https://zainul-abid-henna-salam.vercel.app/
+  [REMOVE] https://hanna-shanu.skenllp.com/
+  [REMOVE] https://thooba-anfal.vercel.app/
+
+=== Design D07 (7 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, thacharamban family, welcomes you to the of, tap to open, a v, with the blessings of allah, scroll, the big day, counting down to forever, days, hours, minutes
+  [KEEP  ] https://afzal-vafa.vercel.app/
+  [REMOVE] https://fousiya-ameer-cdd7.vercel.app/
+  [REMOVE] https://fousiya-ameer.vercel.app/
+  [REMOVE] https://ameer-fousiya-ut4a.vercel.app/
+  [REMOVE] https://ameer-fousiya.vercel.app/
+  [REMOVE] https://henna-zainul.vercel.app/
+  [REMOVE] https://ajmal-haseema.vercel.app/
+
+=== Design D08 (6 sites) ===
+sample labels: m n, open the, ب س م الل ه الر ح م ن الر ح يم, ahammed, mtp, nikah reception, wafiyya, arshadi, nikah ceremony, are tying the knot, scroll, in the name of allah
+  [REMOVE] https://noorudin-nihala-nihala-munavvir.vercel.app/
+  [KEEP  ] https://safwan-muhsina.vercel.app/
+  [REMOVE] https://jafersadiq-shadiya.vercel.app/
+  [REMOVE] https://shibili-thaniya.vercel.app/
+  [REMOVE] https://hamidasherin-suhail.vercel.app/
+  [REMOVE] https://shaheer-shifna-and-ameena-jasir.vercel.app/
+
+=== Design D09 (6 sites) ===
+sample labels: tap to open, t a, open the, together with their families, invite you to their, o by tamara trivandrum kerala, scroll, c a, the big day, counting down to forever, days, hours
+  [KEEP  ] https://chandan-anagha.vercel.app/
+  [REMOVE] https://chandan-anagha-jr55.vercel.app/
+  [REMOVE] https://chandan-anagha-ko8a.vercel.app/
+  [REMOVE] https://chandan-anagha-r64r.vercel.app/
+  [REMOVE] https://chandan-anagha-ld9y.vercel.app/
+  [REMOVE] https://chandan-anagha-x1rb.vercel.app/
+
+=== Design D10 (5 sites) ===
+sample labels: the wedding of, middot middot, open, open invitation, scroll to discover, the couple, the groom, kayyalackakath jaison, son of, mrs nileena jaison, late mr jaison kurian, kayyalackakath house
+  [REMOVE] https://emil-jitha.vercel.app/
+  [REMOVE] https://albin-vismaya.vercel.app/
+  [KEEP  ] https://gregory-lilly.vercel.app/
+  [REMOVE] https://benny-sharonimol.vercel.app/
+  [REMOVE] https://fakrudeen-bawa-rukiya.vercel.app/
+
+=== Design D11 (5 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, ceremony, open, with the blessings of allah swt, grand arena convention centre, ettumanoor, scroll, in the name of allah, the most beneficent, the most merciful, the big day, counting down to our
+  [KEEP  ] https://rizwan-fairuz.vercel.app/
+  [REMOVE] https://badarudheen-hudha.vercel.app/
+  [REMOVE] https://hudha-badarudheen.vercel.app/
+  [REMOVE] https://ajmi-ashiq.vercel.app/
+  [REMOVE] https://sajjad-ayesha.vercel.app/
+
+=== Design D12 (5 sites) ===
+sample labels: kindly join us for the ceremony of, view details, scroll, holy bible bull genesis, brought together by faith family, the couple, the bride, daughter of, mr tomy mathew mrs betty tom, the groom, son of, mr jose job mrs nisha jose
+  [REMOVE] https://sebastian-tejal-wedding.vercel.app/
+  [KEEP  ] https://jen-jeslin.vercel.app/
+  [REMOVE] https://anupama-shyne.vercel.app/
+  [REMOVE] https://sebastian-tejal.vercel.app/
+  [REMOVE] https://jeffin-sneha.vercel.app/
+
+=== Design D13 (5 sites) ===
+sample labels: ceremony, tap to open the doors, together with our children, rauf, lilluna, anaina, this special occasion with us, counting down to the celebration, days, hours, min, sec
+  [KEEP  ] https://house-warming-muhammed-jasheera.vercel.app/
+  [REMOVE] https://nuwaid-misriya-housewarming.vercel.app/
+  [REMOVE] https://raihanath-haris-housewarming.vercel.app/
+  [REMOVE] https://jalib-vaikkileri-fathima-m-c.vercel.app/
+  [REMOVE] https://house-warming.skenllp.com/
+
+=== Design D14 (4 sites) ===
+sample labels: skip to main content, services, why up, gallery, faq, contact, whatsapp, book a free demo, whatsapp us, personalised, teacher, student
+  [skip  ] https://www.skilluplearningacademy.in/
+  [KEEP  ] https://shifana-nishal.vercel.app/
+  [REMOVE] https://anupama-lijin-ehrj.vercel.app/
+  [REMOVE] https://anupama-lijin.vercel.app/
+
+=== Design D15 (4 sites) ===
+sample labels: open, r r, home, family, events, countdown, location, thank you, ب س م الله الر ح م ن الر ح ي م, kuningad, scroll, in the name of allah
+  [KEEP  ] https://rafnas-rifana.vercel.app/
+  [REMOVE] https://ayoob-fatema.vercel.app/
+  [REMOVE] https://nahda-arif.vercel.app/
+  [REMOVE] https://askar-sufair.skenllp.com/
+
+=== Design D16 (4 sites) ===
+sample labels: ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, a blessed beginning, open, and we created you in pairs, the couple, two hearts one blessing, the groom, k a, beloved son of, mr hameed kotta, mrs amina b, madvoor manzil p o kudlu
+  [REMOVE] https://afrid-liya-shahba.vercel.app/
+  [KEEP  ] https://haseeb-risa.vercel.app/
+  [REMOVE] https://shafeeque-husna.vercel.app/
+  [REMOVE] https://rashid-salma.skenllp.com/
+
+=== Design D17 (3 sites) ===
+sample labels: i l, ب س م الل ه الر ح م ن الر ح يم, with allah s blessing, together with their families, invite you to our, meruzila convention center koduvally, open, our story, the couple, best regards, the day, venue
+  [KEEP  ] https://irfan-liyana.vercel.app/
+  [REMOVE] https://abduraheem-fathima.vercel.app/
+  [REMOVE] https://afshan-anjum.vercel.app/
+
+=== Design D18 (3 sites) ===
+sample labels: preparing a journey, skip, are getting married, join us as we begin our forever, open the invitation, tap to open bull sound on, every soul has a journey, adv, bull bull, scroll to begin the celebrations, by the grace of the divine, with hearts full of love
+  [REMOVE] https://niveditha-aravind.vercel.app/
+  [KEEP  ] https://aravind-niveditha.vercel.app/
+  [REMOVE] https://aravind-niveditha-1.vercel.app/
+
+=== Design D19 (3 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, you are cordially invited to the of, middot middot, open, tap to begin bull insha allah, skip rsaquo, together with their families, reception pm, insha allah, scroll, the, our forever begins
+  [KEEP  ] https://shafi-noohulhakh.vercel.app/
+  [REMOVE] https://ayoob-fathima.vercel.app/
+  [REMOVE] https://imthiyas-rinshi.vercel.app/
+
+=== Design D20 (3 sites) ===
+sample labels: open invitation, copied to clipboard, the wedding of, kerala, scroll, together with their families, sobha suresh, a v suresh nambiar, suresh ragav, grandson of, late, v v raghava poduval
+  [KEEP  ] https://rahul-yukta.vercel.app/
+  [REMOVE] https://aravind-harsha.vercel.app/
+  [REMOVE] https://jishnu-vibha.vercel.app/
+
+=== Design D21 (3 sites) ===
+sample labels: open, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, f s, forever begins here, scroll to discover, our forever begins, scratch to reveal, reveal a special surprise, you re invited, the new college auditorium, royapettah chennai, scratch here
+  [KEEP  ] https://farira-sabrudeen-1.vercel.app/
+  [REMOVE] https://farira-sabrudeen-01.vercel.app/
+  [REMOVE] https://farira-sabrudeen.vercel.app/
+
+=== Design D22 (3 sites) ===
+sample labels: in the name of allah, open, home, details, venue, family, the of, our son, abdullah, daughter of muhammad ali, view details, counting down to forever
+  [KEEP  ] https://shamnad-rafiya.vercel.app/
+  [REMOVE] https://shamnad-rafiya-reception.vercel.app/
+  [REMOVE] https://salih-rishana.vercel.app/
+
+=== Design D23 (3 sites) ===
+sample labels: s v, welcome, to the of, open, skip intro, shree ganeshay namah, together with their families, scroll to explore, with joy and gratitude, the auspicious occasion, the ceremony, muhurtam
+  [KEEP  ] https://swathi-aswinlal.vercel.app/
+  [REMOVE] https://gokul-greshma.vercel.app/
+  [skip  ] https://sample-2-five-drab.vercel.app/
+
+=== Design D24 (3 sites) ===
+sample labels: بسم الله الرحمن الرحيم, open, insha allah, tap to begin, skip, scroll, the, s o mr abdul azeez mrs mumthaz with, d o mr abdul majeed mrs rasiya, morning reception, am am, groom s residence
+  [KEEP  ] https://ajmal-rosina.vercel.app/
+  [REMOVE] https://merin-nygin.vercel.app/
+  [REMOVE] https://bestin-mareena.vercel.app/
+
+=== Design D25 (3 sites) ===
+sample labels: ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, the of, open, together with their families, date, venue, pulamanthole, scroll, in the name of allah, the most gracious, the most merciful, ldquo
+  [REMOVE] https://asmiya-zameel.vercel.app/
+  [KEEP  ] https://zameel-asmiya.vercel.app/
+  [REMOVE] https://raheed-ishla.vercel.app/
+
+=== Design D26 (3 sites) ===
+sample labels: n m, ب س م الل ه الر ح م ن الر ح يم, in the name of allah, the most gracious the most merciful, tap to open invitation, pazheri plaza mannarkkad, scroll, you are cordially invited, a blessed union, with immense joy and gratitude to allah, the families of and, the bride
+  [REMOVE] https://nimshiya-ashif.vercel.app/
+  [REMOVE] https://aysha-naja-mhd-ashfaq.vercel.app/
+  [KEEP  ] https://fahad-hubna.vercel.app/
+
+=== Design D27 (3 sites) ===
+sample labels: the of, open, click the button to open the, ب س م الل ه الر ح م ن الر ح يم, the celebration, of love, the white oak castle, kuttipuram malappuram, two hearts one blessing, the couple, the groom the bride, groom
+  [KEEP  ] https://mashhoor-ashafathima.vercel.app/
+  [REMOVE] https://riswan-thafseera.vercel.app/
+  [REMOVE] https://riswana-thafseera.vercel.app/
+
+=== Design D28 (3 sites) ===
+sample labels: h i, invitation, open invitation, ب س م الل ه الر ح م ن الر ح يم, view invitation, darr, with blessings of allah, you are invited, ldquo, truly special for us, with love, together with their families
+  [KEEP  ] https://hisana-iyas.vercel.app/
+  [REMOVE] https://hisana-iyas-qysp.vercel.app/
+  [REMOVE] https://hisana-iyas-ctlb.vercel.app/
+
+=== Design D29 (2 sites) ===
+sample labels: open, copied to clipboard, the of and, ravivarma hall sargaalaya crafts village, iringal vadakara, pm pm, scroll, together with their families, the bride, dr pradeep, d o, dr pradeep v k
+  [KEEP  ] https://drishya-hardeep.vercel.app/
+  [REMOVE] https://hardeep-drishya.vercel.app/
+
+=== Design D30 (2 sites) ===
+sample labels: middot mass at pm, open, grace of, together their families, request the honour of your presence prayers, st jude church heggala, scroll down, the blessing of our parents, the groom, beloved son of, biju shaji, ainikkal h
+  [KEEP  ] https://jesna-aljith.vercel.app/
+  [REMOVE] https://christy-vinaya.vercel.app/
+
+=== Design D31 (2 sites) ===
+sample labels: in the name of allah, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, tap to open your, kindly join us for the of, am pm, view details, counting down to the blessed day, days, hours, minutes, seconds, with the blessings of allah
+  [KEEP  ] https://hamras-fidha.vercel.app/
+  [REMOVE] https://hamras-fidha-reception.vercel.app/
+
+=== Design D32 (2 sites) ===
+sample labels: the of, open, two thousand twenty six, you re invited, scroll to begin, love in our hearts, groom s parents, mrs beena sachidanandan, mr p g sachidanandan, bride s parents, mrs smitha rajesh, mr rajesh appukuttan
+  [KEEP  ] https://hariprasad-krishnendhu.vercel.app/
+  [REMOVE] https://jishnu-karthika.skenllp.com/
+
+=== Design D33 (2 sites) ===
+sample labels: 
+  [KEEP  ] https://eldhos-anitta.vercel.app/
+  [REMOVE] https://anitta-eldhos.vercel.app/
+
+=== Design D34 (2 sites) ===
+sample labels: ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, n s, forever begins here, scroll to discover, mr muneer mrs reenas p, cordially invite you to attend the, nikkah ceremony, of their beloved daughter, granddaughter of, late mr c c abdulla, late a mariyumma, paternal
+  [KEEP  ] https://nafeesa-sofian.vercel.app/
+  [skip  ] https://sample-wedding-livid.vercel.app/
+
+=== Design D35 (2 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, tap to open, n s, with the blessings of allah, kandakal family, welcomes you to the of, scroll, ب س م الل ه الر ح م ن, الر ح يم, in the name of allah, the most beneficent, the most merciful
+  [KEEP  ] https://nihal-shadha.vercel.app/
+  [REMOVE] https://bilal-nafia.vercel.app/
+
+=== Design D36 (2 sites) ===
+sample labels: dr a, preparing a journey, are getting married, join us as we begin our forever, begin our journey, tap to begin, every soul has a journey, some journeys are written before, time, itself, scroll to awaken the story, by the grace of the divine
+  [KEEP  ] https://rishi-naadham.vercel.app/
+  [REMOVE] https://naadham-rishi.vercel.app/
+
+=== Design D37 (2 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, tap to open, ب س م الل ه, ayippuzha juma masjid kannur, scroll, bismillāhir raḥmānir raḥīm, surah ar rum, with the boundless grace of allah, subhanahu wa ta ala, and, the blessed couple, groom bride
+  [REMOVE] https://safa-remshad.vercel.app/
+  [KEEP  ] https://remshad-safa.vercel.app/
+
+=== Design D38 (1 sites) ===
+sample labels: s o p p beena o h, d o asif hassan koya shyla ibrahim, from, pm to, thodupuzha merchant x s trust hall, location, days, hours, minutes, seconds, send your wishes, we seek your duas and warmly
+  [KEEP  ] https://ajil-adheela.vercel.app/
+
+=== Design D39 (1 sites) ===
+sample labels: open, scroll, salam, s o ummer koya shahida, gs o pma salam kunju haji rukkiya n, ambali hamza aasiya k, and, fathima, d o dr mohammad rennis m jibi umayya c, gd o mundoli alikoya hasnath m, save the date, join us on
+  [KEEP  ] https://amar-nena.vercel.app/
+
+=== Design D40 (1 sites) ===
+sample labels: m s p, ephesians, m s, the groom, tap to open, placeholder, the bride, ecclesiastes, scroll, counting down, until we say ldquo i do rdquo, days
+  [KEEP  ] https://anoop-sandra.vercel.app/
+
+=== Design D41 (1 sites) ===
+sample labels: j m, the of, enter the celebration, together with their families, no one separate, matthew, with hearts full of joy, tap to reveal, ranikutty, poovathumkal chakkampuzha p o, ramapuram, with
+  [KEEP  ] https://jobin-mariya-betrothal.vercel.app/
+
+=== Design D42 (1 sites) ===
+sample labels: j m, the wedding of, enter the celebration, together with their families, no one separate, matthew, george, joseph, with hearts full of joy, tap to reveal, george ponnayia, annamma george
+  [KEEP  ] https://jobin-mariya.vercel.app/
+
+=== Design D43 (1 sites) ===
+sample labels: ب س م, ٱلل ه, ٱلر ح م ن, ٱلر ح يم, open, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, the families, with love and blessings, the bride, beloved daughter of, asif hassan koya shyla ibrahim, pulikkalakath h nochima
+  [KEEP  ] https://adheela-ajil.vercel.app/
+
+=== Design D44 (1 sites) ===
+sample labels: together, with their families, bull bull, open, tap to begin, skip, middot, together with their families, muhurtham middot, am ndash am, scroll, with joy blessings
+  [KEEP  ] https://nahal-devika.vercel.app/
+
+=== Design D45 (1 sites) ===
+sample labels: firebase is filled in, ب س م الل ه الر ح م ن الر ح يم, two hearts, one blessed union, open, with the blessings of allah, you are invited to the of, badusha, fathimathul, scroll, the big day, counting down to forever
+  [KEEP  ] https://roshan-safa.vercel.app/
+
+=== Design D46 (1 sites) ===
+sample labels: السلام عليكم ورحمة الله وبركاته, مريم, أجير, open, scroll, ب س م الل ه الر ح م ن الر ح يم, together with their families, quran, the bride, daughter of, abdurahman aysha, the groom
+  [KEEP  ] https://maryam-ajeer.vercel.app/
+
+=== Design D47 (1 sites) ===
+sample labels: त ज स ई एव म नस श भ व व ह न म त रण, एक प वन य त र क त य र, त ज स ई एव म नस, पर णय स त र म ब धन ज रह ह, श भ प रव श कर, प रव श क ल ए स पर श कर, श र रस त श भमस त अव घ नमस त, नल ल म कल पर व र क श भ व व ह न म त रण, त ज स ई, म नस, कथ ज नन क ल ए न च स क र ल कर, श र मद व ङ कटन थ य श र न व स य मङ गलम
+  [KEEP  ] https://theja-mansi-hindi.vercel.app/
+
+=== Design D48 (1 sites) ===
+sample labels: preparing a journey, are getting married, join us as we begin our forever, begin our journey, tap to begin, శ ర రస త శ భమస త అవ ఘ నమస త, nallamekala family s wedding invitation, some journeys are written before, time, itself, scroll to awaken the story, śrīmadveṅkaṭanāthāya śrīnivāsāya maṅgalam
+  [KEEP  ] https://theja-mansi.vercel.app/
+
+=== Design D49 (1 sites) ===
+sample labels: preparing a journey, pottendla family s wedding invitation, begin our journey, tap to begin, శ ర రస త శ భమస త కళ య ణమస త, pottendla s wedding invitation, scroll to awaken the story, shri ganeshay namah, व घ न हरण म गल करण करत स म गल क ज, प रथम न म त रण आपक श र गणपत मह र ज, శ ర మద వ కటన ధ య శ ర న వ స య మ గళ, chi la sow
+  [KEEP  ] https://mansi-theja.vercel.app/
+
+=== Design D50 (1 sites) ===
+sample labels: in the name of god, step into the forest of a new beginning, open the, skip, you are invited, kiliyil plaza, eramangalam, scroll down, the couple, mdash surah ar rum, groom, mohamad
+  [KEEP  ] https://shabeeb-rishda.vercel.app/
+
+=== Design D51 (1 sites) ===
+sample labels: open, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, s f, forever begins here, date time coming soon, scroll to discover, our forever begins, scratch to reveal, reveal a special surprise, you re invited, coming soon, date time to be announced
+  [KEEP  ] https://sabrudeen-farira.vercel.app/
+
+=== Design D52 (1 sites) ===
+sample labels: mr mujeeb ck mrs fousiya kk, with the grace of god and our families, adv sherin, adv bin noushad, s o mr adv pc noushad mrs fathima shyma, nest po muzhapilangad, in sha allah, جمادى الآخرة هـ, nikah am pm, town bank auditorium thalassery, location, days
+  [KEEP  ] https://aqila-nihal.vercel.app/
+
+=== Design D53 (1 sites) ===
+sample labels: j i, holy matrimony, enter the celebration, together with their families, ecclesiastes, scroll, with hearts full of joy, the groom, the bride, save the date, engagement, marriage
+  [KEEP  ] https://joji-irin.vercel.app/
+
+=== Design D54 (1 sites) ===
+sample labels: ephesians, the groom, tap to open, placeholder, the bride, ecclesiastes, scroll, counting down, until we say ldquo i do rdquo, days, hours, minutes
+  [KEEP  ] https://justin-aiswarya.vercel.app/
+
+=== Design D55 (1 sites) ===
+sample labels: b l, the wedding of, enter the celebration, together with their families, matthew, romer, stanly, with hearts full of joy, tap to reveal, the groom, the bride, save the date
+  [KEEP  ] https://benz-liza.vercel.app/
+
+=== Design D56 (1 sites) ===
+sample labels: skip to content, home, compress, resize, about, browser based, images fast private, upload, drag drop your here, choose, filename, format
+  [skip  ] https://image-convert-delta.vercel.app/
+
+=== Design D57 (1 sites) ===
+sample labels: f h, ب س م الل ه الر ح م ن الر ح يم, by the grace of allah, fayiz mahal atholi, open, s o k abdul latheef fousiya latheef, d o late hassan nelliyot suhara, reception on from, pm to, fayiz mahal kammili atholi, reception location, days
+  [KEEP  ] https://fadhih-hanna.vercel.app/
+
+=== Design D58 (1 sites) ===
+sample labels: السلام عليكم ورحمة الله وبركاته, حنان اساد, محمد أسلم, open, scroll, ب س م الل ه الر ح م ن الر ح يم, together with our families, the bride, daughter of hazeena, haneen, thekkeputhenpurayil house, puthupady p o
+  [KEEP  ] https://hanan-aslam.vercel.app/
+
+=== Design D59 (1 sites) ===
+sample labels: tap to open, wedding, ima house palarivattom cochin pm, ക ഷണക കത ത, of our beloved, and, sathyakumar, truly memorable, date, ത ല, time, pm pm
+  [KEEP  ] https://abilash-anjitha-reception.vercel.app/
+
+=== Design D60 (1 sites) ===
+sample labels: s o adv pc noushad mrs fathima shyma, adv bin noushad, adv sherin, d o mujeeb c k mrs fousiya k k, nikkah on at, town bank auditorium thalassery, nikkah location, days, hours, minutes, seconds, send your wishes
+  [KEEP  ] https://nihal-aqila.vercel.app/
+
+=== Design D61 (1 sites) ===
+sample labels: ഗ ര വ യ രപ പന റ അന ഗ രഹത ത ട, open, ക ഷണക കത ത ത റക ക ക, tap to begin, skip, sathyakumar, ത ല am, scroll, ക ഷണക കത ത, the, of our beloved, and
+  [KEEP  ] https://abhilash-anjitha.vercel.app/
+
+=== Design D62 (1 sites) ===
+sample labels: open, tap to begin, skip, save the date, scroll, with joy gratitude, the, psalm, day, by god s grace, marriage time, ceremony
+  [KEEP  ] https://rohith-reji-merin-mavelil.vercel.app/
+
+=== Design D63 (1 sites) ===
+sample labels: collections, our story, furnish your, way of, explore collection, discover, scroll, the approach, designed, everyday, comfort, quality
+  [skip  ] https://homezo.vercel.app/
+
+=== Design D64 (1 sites) ===
+sample labels: the groom, tap to open, placeholder, the bride, ecclesiastes, you have been asking me when, with love inviting your presence on my day, scroll, counting down, until we say ldquo i do rdquo, days, hours
+  [KEEP  ] https://mira-divya.vercel.app/
+
+=== Design D65 (1 sites) ===
+sample labels: ॐ श र गण श य नम, shubh vivah, the groom, tap to open, placeholder, the bride, wedding ceremony, scroll to explore, mark your calendar, the big day approaches, days, hours
+  [KEEP  ] https://sreehari-bhagya.vercel.app/
+
+=== Design D66 (1 sites) ===
+sample labels: ب س م, ٱلل ه, ٱلر ح م ن, ٱلر ح يم, assalamu alaikum, open, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, the families, with love and blessings, the bride, beloved daughter of, shajahan shibina
+  [KEEP  ] https://ajmal-bismida.vercel.app/
+
+=== Design D67 (1 sites) ===
+sample labels: ruth, the bride, tap to open, placeholder, the groom, to celebrate our, scroll, with joyful hearts, you are warmly invited, and, holy matrimony, hand in hand guided by
+  [KEEP  ] https://merlymol-nikhil.vercel.app/
+
+=== Design D68 (1 sites) ===
+sample labels: open, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, a f, forever begins here, scroll, we cordially invite you to attend the, nikkah ceremony of, daughter of, mr rahim o late mrs suhara p, rahim manzil house, anjukunnu wayanad, with
+  [KEEP  ] https://ayisha-fayas.vercel.app/
+
+=== Design D69 (1 sites) ===
+sample labels: and, please join us for our, reception to follow, open, with great joy, in the afternoon, counting down to the celebration, days, hours, minutes, seconds, scroll
+  [KEEP  ] https://thomas-sneha.vercel.app/
+
+=== Design D70 (1 sites) ===
+sample labels: in the name of allah, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, tap to open your, kindly join us for the of, view details, counting down to the blessed day, days, hours, minutes, seconds, with the blessings of allah, you are invited
+  [KEEP  ] https://mubashir-rasin-fathima-thanveera.vercel.app/
+
+=== Design D71 (1 sites) ===
+sample labels: in the name of allah, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, nikah reception, tap to open your, kindly join us for the of, aluva kerala, nikah middot am, reception middot pm, view details, counting down to the blessed day, days, hours
+  [KEEP  ] https://salid-nesrin.vercel.app/
+
+=== Design D72 (1 sites) ===
+sample labels: s b, two hearts one journey, blessed by god s grace, open, couple, events, story, gallery, rsvp, our story, compliments, wishes
+  [KEEP  ] https://surya-bigil.vercel.app/
+
+=== Design D73 (1 sites) ===
+sample labels: loading hellip, who we are, services, catalogues, rental, careers, contact, free consultation, where strategy, creativity and, technology converge, and modern software applications
+  [skip  ] https://skenllp.vercel.app/
+
+=== Design D74 (1 sites) ===
+sample labels: in the name of allah, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, tap to open your, kindly join us for the of, view details, counting down to the blessed day, days, hours, minutes, seconds, you are invited, mr i abdul rahman mrs a raseedha
+  [KEEP  ] https://riyanasrin-azarudeen.vercel.app/
+
+=== Design D75 (1 sites) ===
+sample labels: psalm, the groom, tap to open, placeholder, the bride, ecclesiastes, scroll, counting down, until we say ldquo i do rdquo, days, hours, minutes
+  [KEEP  ] https://gladson-nisha.vercel.app/
+
+=== Design D76 (1 sites) ===
+sample labels: 
+  [KEEP  ] https://balu-souparnika.vercel.app/
+
+=== Design D77 (1 sites) ===
+sample labels: the groom, tap to open, placeholder, the bride, holy matrimony reception, scroll, with the blessings of almighty god, you are warmly invited, mark, together with our beloved families, hand in hand guided by, god s grace
+  [KEEP  ] https://basil-anju.vercel.app/
+
+=== Design D78 (1 sites) ===
+sample labels: 
+  [KEEP  ] https://athiraraj-sarathraj.vercel.app/
+
+=== Design D79 (1 sites) ===
+sample labels: i have found the one whom my soul loves, song of solomon, the groom, tap to open, placeholder, the bride, scroll, counting down, until we say ldquo i do rdquo, days, hours, minutes
+  [KEEP  ] https://lalu-chinchu.vercel.app/
+
+=== Design D80 (1 sites) ===
+sample labels: in the name of allah, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, ceremony, tap to open your, invite you to attend the ceremony of, view details, counting down to the blessed day, days, hours, minutes, seconds, you are invited
+  [KEEP  ] https://aslam-salva.vercel.app/
+
+=== Design D81 (1 sites) ===
+sample labels: skip, tap anywhere, g g, shree ganeshay namah, pm pm, scroll, mr girish kumar g mrs dimple girish, gopalam olakettiambalam mavelikara, request the honor of your gracious presence, mr g, and, and adv latha ajith
+  [KEEP  ] https://gokul-greeshma-invitation.vercel.app/
+
+=== Design D82 (1 sites) ===
+sample labels: music, tap here, to begin our journey, days, hours, minutes, seconds, every sunrise brings us closer, a beautiful journey, our story, chapter, a beautiful beginning
+  [KEEP  ] https://ribin-anon-mariya.vercel.app/
+
+=== Design D83 (1 sites) ===
+sample labels: ശ ര ഗ ര വ യ രപ പൻ ത ണ, open, tap to begin, skip, chingam, scroll, the, beloved son, and our beloved daughter, begin a beautiful, our celebration truly memorable, day
+  [KEEP  ] https://vishak-devika.vercel.app/
+
+=== Design D84 (1 sites) ===
+sample labels: ruth, the bride, tap to open, placeholder, the groom, to celebrate our, holy matrimony reception, scroll, with joyful hearts, you are warmly invited, and, hand in hand guided by
+  [KEEP  ] https://ashlin-sruthy.vercel.app/
+
+=== Design D85 (1 sites) ===
+sample labels: open invitation, tap to unveil, a sacred beginning, scroll to begin, two souls one destiny, with blessings we unite, the bride, d o n k sasidharan jayasree l, surya bhavan neduvannoor avaneeswaram rspo, the groom, s prasad, s o sivaprasad anitha g
+  [KEEP  ] https://akash-sukanya.vercel.app/
+
+=== Design D86 (1 sites) ===
+sample labels: in the name of allah, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, tap to open your, kindly join us for the of, view details, counting down to the blessed day, days, hours, minutes, seconds, you are invited, mr i abdul rahman mrs a raseedha begum
+  [KEEP  ] https://azarudeen-riyanasrin.vercel.app/
+
+=== Design D87 (1 sites) ===
+sample labels: you are invited, open, skip, ecclesiastes, with grace of god, together with their families, scroll, counting down, until we say ldquo i do rdquo, days, hours, minutes
+  [KEEP  ] https://nithin-daya.vercel.app/
+
+=== Design D88 (1 sites) ===
+sample labels: 
+  [KEEP  ] https://mahesh-sreeja.vercel.app/
+
+=== Design D89 (1 sites) ===
+sample labels: 
+  [KEEP  ] https://athul-krishna.vercel.app/
+
+=== Design D90 (1 sites) ===
+sample labels: ب س م, ٱلل ه, ٱلر ح م ن, ٱلر ح يم, open, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, the families, with love and blessings, the bride, beloved daughter of, mr abdul samad, thirunnilath house muttichira moonniyur
+  [KEEP  ] https://shahana-safwan.vercel.app/
+
+=== Design D91 (1 sites) ===
+sample labels: open, together with their families, scroll, the family, with the blessings of, the bride, beloved daughter of, t c suresh, lakshmi t, manikam veedu thekkekkunn, pallikkara, the groom
+  [KEEP  ] https://indulekha-vijith.vercel.app/
+
+=== Design D92 (1 sites) ===
+sample labels: open, insha allah, tap to begin, skip, ب س م الل ه الر ح م ن الر ح يم, invite you to celebrate their, bull, scroll, together with our families, groom rsquo s family, thattayil, son of
+  [KEEP  ] https://shabeeb-sabitha.vercel.app/
+
+=== Design D93 (1 sites) ===
+sample labels: 
+  [KEEP  ] https://noorulameen-mirsana.vercel.app/
+
+=== Design D94 (1 sites) ===
+sample labels: ب س م, ٱلل ه, ٱلر ح م ن, ٱلر ح يم, ali, fathima, open, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, the families, with love and blessings, the groom, beloved son of
+  [KEEP  ] https://sabith-nihana.skenllp.com/
+
+=== Design D95 (1 sites) ===
+sample labels: ephesians, the groom, tap to open, placeholder, the bride, ecclesiastes, scroll, counting down, until we say ldquo i do rdquo, days, hours, minutes
+  [KEEP  ] https://jismon-aleena.vercel.app/
+
+=== Design D96 (1 sites) ===
+sample labels: ب س م الل ه الر ح م ن الر ح يم, request the pleasure of your company, open invitation, play, invitation, rabi al awwal ah, yahir auditorium thiruvalla, و خ ل ق ن اك م أ ز و اج ا, and we created you in pairs, surah an naba, the families, with love and blessings
+  [skip  ] https://wedding-15.vercel.app/
+
+=== Design D97 (1 sites) ===
+sample labels: am pm, taaztechmlp gmail com, taaztechmlp com, home, about, services, gallery, certifications, testimonials, contact, whatsapp us, since
+  [skip  ] https://taaztech.vercel.app/
+
+=== Design D98 (1 sites) ===
+sample labels: 
+  [skip  ] https://wedding-invitation-ten-jet.vercel.app/
+
+=== Design D99 (1 sites) ===
+sample labels: skip to content, sign up, log in to, terms, privacy policy, continue, with email, with, google, github, chatgpt, with saml sso
+  [skip  ] https://quiet2-skenllps-projects.vercel.app/
+
+=== Design D100 (1 sites) ===
+sample labels: in the name of allah, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, tap to open your, kindly join us for the of, view details, counting down to the blessed day, days, hours, minutes, seconds, with the blessings of allah, you are invited
+  [KEEP  ] https://swalih-rahman-and-ayisha-adabiyya.vercel.app/
+
+=== Design D101 (1 sites) ===
+sample labels: a n, scroll down, invitation, invitation message, days, hours, minutes, seconds, a union of two families, our couples, save the date, wedding details
+  [KEEP  ] https://aufa-sihana-noufal-sahadiyya.vercel.app/
+
+=== Design D102 (1 sites) ===
+sample labels: in the name of allah, ب س م ٱلل ه ٱلر ح م ن ٱلر ح يم, nikkah, tap to open your, kindly join us for the nikkah of, view details, counting down to the blessed day, days, hours, minutes, seconds, with the blessings of allah
+  [KEEP  ] https://ashfak-afna.vercel.app/
+
+=== FAILED TO LOAD (kept, not compared) ===
+  https://safa-afnan-kvmq.vercel.app/  (HTTP 404)
+  https://sebastian-tejal-wedding-yy2d.vercel.app/  (HTTP 404)
+  https://weddingcard4-skenllps-projects.vercel.app/  (HTTP 404)
+  https://anupa-harikrishnan.vercel.app/  (HTTP 503)
+  https://darur-rahmah.vercel.app/  (HTTP 503)
