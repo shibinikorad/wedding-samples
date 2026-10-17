@@ -8,17 +8,17 @@ const SAMPLES = [
  {bride:"Anjitha", groom:"Abhilash", cat:"Wedding", price:2499, url:"https://abhilash-anjitha.vercel.app/"},
  {bride:"Harsha", groom:"Aravind", cat:"Wedding", price:2499, url:"https://aravind-harsha.vercel.app/"},
  {bride:"Aslam", groom:"Hanan", cat:"Wedding", price:2499, url:"https://hanan-aslam.vercel.app/"},
- {bride:"Athira", groom:"Vinay", cat:"Hindu", price:2499, url:"https://vinay-athira-wedding.vercel.app/", hero:4},
+ {bride:"Athira", groom:"Vinay", cat:"Hindu", price:2499, url:"https://vinay-athira-wedding.vercel.app/", hero:4, img:"images/vinay-athira.jpg"},
  {bride:"Sona", groom:"Alwin", cat:"Wedding", price:2499, url:"https://alwin-sona.vercel.app/"},
  {bride:"Stefy", groom:"Patrick", cat:"Wedding", price:2499, url:"https://patrick-stefy.vercel.app/"},
- {bride:"Vibha", groom:"Jishnu", cat:"Hindu", price:2499, url:"https://jishnu-vibha.skenllp.com/", hero:2},
+ {bride:"Vibha", groom:"Jishnu", cat:"Hindu", price:2499, url:"https://jishnu-vibha.skenllp.com/", hero:2, img:"images/vibha-jishnu.jpg"},
  {bride:"Mareena", groom:"Bestin", cat:"Wedding", price:2499, url:"https://bestin-mareena.vercel.app/"},
  {bride:"Rinshi", groom:"Imthiyas", cat:"Wedding", price:2499, url:"https://imthiyas-rinshi.vercel.app/"},
  {bride:"Sharonimol", groom:"Benny", cat:"Wedding", price:2499, url:"https://benny-sharonimol.vercel.app/"},
  {bride:"Nena", groom:"Amar", cat:"Wedding", price:2499, url:"https://amar-nena.vercel.app/"},
- {bride:"Fidha", groom:"Sanoop", cat:"Nikah", price:2999, url:"https://sanoop-fidha.vercel.app/", hero:1},
- {bride:"Fathima Hanna", groom:"Shanu Farhan", cat:"Nikah", price:2499, url:"https://shanu-hanna.skenllp.com/", hero:3},
- {bride:"Sandra", groom:"Vishnu", cat:"Hindu", price:2999, url:"", hero:5},
+ {bride:"Fidha", groom:"Sanoop", cat:"Nikah", price:2999, url:"https://sanoop-fidha.vercel.app/", hero:1, img:"images/sanoop-fidha.jpg"},
+ {bride:"Fathima Hanna", groom:"Shanu Farhan", cat:"Nikah", price:2499, url:"https://shanu-hanna.skenllp.com/", hero:3, img:"images/fathima-shanu.jpg"},
+ {bride:"Sandra", groom:"Vishnu", cat:"Hindu", price:2999, url:"", hero:5, img:"images/vishnu-sandra.jpg"},
  {bride:"Adheela", groom:"Ajil", cat:"Wedding", price:2499, url:"https://ajil-adheela.vercel.app/"},
  {bride:"Sandra", groom:"Anoop", cat:"Wedding", price:2499, url:"https://anoop-sandra.vercel.app/"},
  {bride:"Arya", groom:"Aswanth", cat:"Wedding", price:2499, url:"https://aswanth-arya.vercel.app/"},
@@ -151,7 +151,7 @@ const SAMPLES = [
    "auto"   = live preview inside the phone on desktop, new tab on mobile (recommended)
    "embed"  = always load inside the phone
    "newtab" = always open in a new tab */
-const MODE = "embed";
+const MODE = "auto";
 const WHATSAPP = "917736433907";
 const DEFAULT_PRICE = 2499;
 const PAGE_SIZE = 24;

@@ -39,6 +39,7 @@ function fit(screen) {
 }
 function goLive(btn) {
   const screen = btn.closest(".screen");
+  if (!screen || screen.querySelector("iframe")) return;
   const f = document.createElement("iframe");
   f.title = "Live invitation preview"; f.allow = "autoplay"; f.src = screen.dataset.url;
   screen.append(f); fit(screen);
@@ -47,48 +48,105 @@ function goLive(btn) {
   openLink.href = screen.dataset.url;
   openLink.target = "_blank";
   openLink.rel = "noopener";
-  openLink.textContent = "Show in new tab ↗";
+  openLink.textContent = "Open in new tab ↗";
   btn.replaceWith(openLink);
 }
-addEventListener("resize", () => document.querySelectorAll(".screen").forEach(fit));
+addEventListener("resize", () => {
+  if (!mq.matches) document.querySelectorAll(".screen").forEach(fit);
+});
 const mq = matchMedia("(max-width:820px)");
 const newTab = s => (s.mode || MODE) === "newtab" || ((s.mode || MODE) === "auto" && mq.matches);
 mq.addEventListener("change", () => render());
+
 grid.onclick = e => {
-  const b = e.target.closest(".live"); if (!b) return;
-  const url = b.closest(".screen").dataset.url;
-  newTab({mode: b.dataset.mode}) ? window.open(url, "_blank", "noopener") : goLive(b);
+  // If clicked a direct link (screen-hit, names a, wa, open-tab), let native link navigation handle it
+  if (e.target.closest("a")) return;
+
+  const btn = e.target.closest(".live");
+  if (btn) {
+    const screen = btn.closest(".screen");
+    if (!screen) return;
+    const url = screen.dataset.url;
+    if (!url) return;
+    if (newTab({mode: btn.dataset.mode})) {
+      window.open(url, "_blank", "noopener");
+    } else {
+      goLive(btn);
+    }
+    return;
+  }
+
+  // On mobile, tapping anywhere on the card or phone bezel opens the live invitation
+  if (mq.matches) {
+    const card = e.target.closest(".card");
+    if (!card) return;
+    const screen = card.querySelector(".screen");
+    if (screen && screen.dataset.url) {
+      window.open(screen.dataset.url, "_blank", "noopener");
+    }
+  }
 };
 
 function render() {
   const q = $("#q").value.trim().toLowerCase();
   const list = SAMPLES.filter(s => (cat === "All" || s.cat === cat) && (s.bride + s.groom).toLowerCase().includes(q));
-  grid.innerHTML = list.length ? list.map((s, i) => `
-  <article class="card">
-    <div class="phone"><div class="screen" data-url="${s.url}" ${!s.img && s.url ? 'data-auto="1"' : ""}>
-      ${s.img ? `<img src="${s.img}" alt="${s.groom} &amp; ${s.bride}" loading="lazy">` : `<div class="fb"><small>${s.cat}</small><b>${s.bride}</b><span>&amp;</span><b>${s.groom}</b></div>`}
-      ${s.url ? (newTab(s)
-        ? `<a class="open" href="${s.url}" target="_blank" rel="noopener">Show in new tab ↗</a>`
-        : (s.img
-          ? `<button class="live" data-mode="embed">Live preview</button>`
-          : `<a class="open" href="${s.url}" target="_blank" rel="noopener">Show in new tab ↗</a>`)) : ""}
-    </div></div>
-    <div class="meta">
-      <div><div class="names">${s.bride ? `${s.bride} <span>&amp;</span> ` : ""}${s.groom}</div><div class="cat">${s.cat}</div></div>
-      <!-- <div class="price">₹${s.price.toLocaleString("en-IN")}</div> -->
-    </div>
-    <a class="wa" target="_blank" rel="noopener" href="${wa(`Hi! I like the ${s.bride} & ${s.groom} (${s.cat}) invitation. I'd like something similar.`)}">${WA_ICON}Order on WhatsApp</a>
-  </article>`).join("") : `<div class="empty">No samples match. Try another category or name.</div>`;
-  observeAuto();
+  const isMobile = mq.matches;
+
+  grid.innerHTML = list.length ? list.map((s, i) => {
+    const isNewTab = newTab(s);
+    const hasUrl = !!s.url;
+    return `
+    <article class="card">
+      <div class="phone">
+        <div class="screen" data-url="${s.url || ""}" ${!s.img && s.url && !isMobile ? 'data-auto="1"' : ""}>
+          ${s.img ? `<img src="${s.img}" alt="${s.groom} &amp; ${s.bride}" loading="lazy">` : `<div class="fb"><small>${s.cat}</small><b>${s.bride}</b><span>&amp;</span><b>${s.groom}</b></div>`}
+          ${hasUrl ? (isNewTab
+            ? `<a class="screen-hit" href="${s.url}" target="_blank" rel="noopener" aria-label="Open live invitation for ${s.bride} &amp; ${s.groom}">
+                <span class="open live"><span class="pulse-dot"></span>Live preview ↗</span>
+              </a>`
+            : `<button type="button" class="live" data-mode="embed"><span class="pulse-dot"></span>Live preview</button>
+               <a class="open-tab" href="${s.url}" target="_blank" rel="noopener" title="Open in new tab" aria-label="Open in new tab">↗</a>`
+          ) : `<span class="open off">Coming soon</span>`}
+        </div>
+      </div>
+      <div class="meta">
+        <div>
+          <div class="names">
+            ${hasUrl
+              ? `<a href="${s.url}" target="_blank" rel="noopener">${s.bride ? `${s.bride} <span>&amp;</span> ` : ""}${s.groom}</a>`
+              : `<span>${s.bride ? `${s.bride} <span>&amp;</span> ` : ""}${s.groom}</span>`}
+          </div>
+          <div class="cat">${s.cat}</div>
+        </div>
+        <!-- <div class="price">₹${s.price.toLocaleString("en-IN")}</div> -->
+      </div>
+      <a class="wa" target="_blank" rel="noopener" href="${wa(`Hi! I like the ${s.bride} & ${s.groom} (${s.cat}) invitation. I'd like something similar.`)}">${WA_ICON}Order on WhatsApp</a>
+    </article>`;
+  }).join("") : `<div class="empty">No samples match. Try another category or name.</div>`;
+
+  if (!isMobile) {
+    observeAuto();
+  }
 }
-/* no poster image? load the site itself into the phone when it scrolls into view */
+
+/* On desktop: load the site itself into the phone when it scrolls into view */
 const io = new IntersectionObserver(es => es.forEach(e => {
-  if (!e.isIntersecting) return; io.unobserve(e.target);
-  const sc = e.target, f = document.createElement("iframe");
-  f.title = "Live invitation preview"; f.loading = "lazy"; f.src = sc.dataset.url;
-  if (mq.matches) f.style.pointerEvents = "none";   /* mobile: tap opens new tab instead of trapping scroll */
-  sc.append(f); fit(sc);
+  if (!e.isIntersecting) return;
+  io.unobserve(e.target);
+  if (mq.matches) return; // Never load iframes on mobile devices to preserve touch events and performance
+  const sc = e.target;
+  if (sc.querySelector("iframe")) return;
+  const f = document.createElement("iframe");
+  f.title = "Live invitation preview";
+  f.loading = "lazy";
+  f.src = sc.dataset.url;
+  sc.append(f);
+  fit(sc);
 }), {rootMargin: "250px"});
-function observeAuto(){ grid.querySelectorAll(".screen[data-auto]").forEach(el => io.observe(el)); }
+
+function observeAuto(){
+  if (mq.matches) return;
+  grid.querySelectorAll(".screen[data-auto]").forEach(el => io.observe(el));
+}
 addEventListener("scroll", () => $(".nav").classList.toggle("s", scrollY > 10), {passive:true});
 render();
